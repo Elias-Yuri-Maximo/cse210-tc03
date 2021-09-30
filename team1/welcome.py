@@ -1,7 +1,7 @@
 
 #from elias.py import hello_from_elias
 from pariente import hello_nicolas
-from layne import hello_from_layne
+from layne import print_hello_from_layne
 from maximo import print_hello_from_elias
 
 
